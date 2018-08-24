@@ -13,3 +13,4 @@ exports.spotify = {
 };
 
 exports.youtube = process.env.YOUTUBE_ID
+exports.OMDB = process.env.OMDB_ID

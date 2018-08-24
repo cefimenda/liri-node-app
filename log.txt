@@ -10,3 +10,401 @@ ________________________________________________________________
 
 
 
+
+
+do-what-it-says
+search-youtube,"I Want it That Way"
+Here is a video titled: Backstreet Boys - I Want It That Way
+Link: https://www.youtube.com/watch?v=4fndeDfaWCg
+
+________________________________________________________________
+
+
+Track: Love Lies (with Normani)
+Artist: Khalid
+Album: Love Lies (with Normani)
+https://api.spotify.com/v1/tracks/45Egmo7icyopuzJN0oMEdk
+
+do-what-it-says
+search-youtube,"I Want it That Way"
+Here is a video titled: Backstreet Boys - I Want It That Way
+Link: https://www.youtube.com/watch?v=4fndeDfaWCg
+
+________________________________________________________________
+
+spotify-this-song,I just called to say I love you
+Track: I Just Called To Say I Love You
+Artist: Stevie Wonder
+Album: At The Close Of A Century
+https://api.spotify.com/v1/tracks/6lJFfj7wWeKiYRjLMHN4SN
+
+spotify-this-song,thriller
+Track: Billie Jean
+Artist: Michael Jackson
+Album: Thriller 25 Super Deluxe Edition
+https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+movie-this,the game
+Title: The Game
+Year: 1997
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 73%
+Country: USA
+Language: English, Cantonese, German
+Plot: After a wealthy banker is given an opportunity to participate in a mysterious game, his life is turned upside down when he becomes unable to distinguish between the game and reality.
+Actors: Michael Douglas, Sean Penn, Deborah Kara Unger, James Rebhorn
+________________________________________________
+________________________________________________________________
+spotify-this,love,fool
+spotify-this-song,love,fool
+Track: Burning Love
+Artist: Elvis Presley
+Album: Elvis (Fool)
+https://api.spotify.com/v1/tracks/7zMUCLm1TN9o9JlLISztxOspotify-this-song,love,fool
+Track: Burning Love
+Artist: Elvis Presley
+Album: Elvis (Fool)
+https://api.spotify.com/v1/tracks/7zMUCLm1TN9o9JlLISztxOspotify-this-song,love,fool
+Track: Burning Love
+Artist: Elvis Presley
+Album: Elvis (Fool)
+https://api.spotify.com/v1/tracks/7zMUCLm1TN9o9JlLISztxOspotify-this-
+spotify-this-
+
+do-what-it-says
+search-youtube,"I Want it That Way"
+Here is a video titled: Backstreet Boys - I Want It That Way
+Link: https://www.youtube.com/watch?v=4fndeDfaWCg
+
+________________________________________________________________
+
+do-what-it-says
+search-this-song,"I Want it That Way"
+
+do-what-it-says
+search-this-song,"I Want it That Way"
+
+do-what-it-says
+spotify-this-song,"I Want it That Way"
+Track: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+________________________________________________________________
+
+Here is a video titled: Borsa İstanbul'da Gong "Lider Faktoring" İçin Çaldı
+Link: https://www.youtube.com/watch?v=RRc1J5hsNO8
+
+________________________________________________________________
+Here is a video titled: Lider Faktoring
+Link: https://www.youtube.com/channel/UCG0qd4cAWKlFRqgBGyWYGKg
+
+________________________________________________________________
+Here is a video titled: Faktoring'i bankalardan ayıran temel faktör nedir?
+Link: https://www.youtube.com/watch?v=yg8aphaP1GE
+
+________________________________________________________________
+Here is a video titled: Lider Faktoring Halka Açılıyor !
+Link: https://www.youtube.com/watch?v=kKMXjebwAbg
+
+________________________________________________________________
+Here is a video titled: Lider Faktoring 11 12 13 Nisan Halka Arz
+Link: https://www.youtube.com/watch?v=WNwWX3VxSgU
+
+________________________________________________________________
+Here is a video titled: Lider Faktoring 04 05 Mayis Halka Arz
+Link: https://www.youtube.com/watch?v=kk6HApazuuA
+
+________________________________________________________________
+Here is a video titled: Faktoring Sektörü
+Link: https://www.youtube.com/watch?v=TCSfg1jkT7g
+
+________________________________________________________________
+Here is a video titled: Lider Faktoring 19 20 Kasim Halka Arz
+Link: https://www.youtube.com/watch?v=9f_cmWZvYqg
+
+________________________________________________________________
+Here is a video titled: Lider Faktoring SD
+Link: https://www.youtube.com/watch?v=dbcTjAO431A
+
+________________________________________________________________
+Here is a video titled: Faktoring nedir
+Link: https://www.youtube.com/watch?v=sb8WJZsiXv8
+
+________________________________________________________________
+search-youtube
+Here is a video titled: Husky Dog Talking - " I love you "
+Link: https://www.youtube.com/watch?v=qXo3NFqkaRM
+
+________________________________________________________________
+search-youtube,bok,pusur
+Here is a video titled: Mancing Wader Gaya Boker
+Link: https://www.youtube.com/watch?v=kQuu84R3T_U
+
+________________________________________________________________
+
+
+________________________________________________________________
+Here is a video titled: AMK visits the Star Wars Celebration
+Link: https://www.youtube.com/watch?v=-H-_f9wEqnw
+Here is a video titled: AMK - Happy Mother's Day
+Link: https://www.youtube.com/watch?v=xkzreX1dEKo
+
+________________________________________________________________
+Here is a video titled: Captain America or Iron Man: Which Side Will AMK Choose?  [Sponsored]
+Link: https://www.youtube.com/watch?v=MYz5W-h8MJc
+
+________________________________________________________________
+Here is a video titled: AMK Star Wars Special - May the 4th be with you.
+Link: https://www.youtube.com/watch?v=l51eBI2v-hY
+
+________________________________________________________________
+Here is a video titled: Commodo, Kahn & Gantz - AMK
+Link: https://www.youtube.com/watch?v=C-d0eltpTbM
+
+________________________________________________________________
+Here is a video titled: Was heißt "AMK" ?..😱  | STRAßEN UMFRAGE | Denizon
+Link: https://www.youtube.com/watch?v=G85_yapR720
+
+________________________________________________________________
+Here is a video titled: KC REBELL - AMK - AMINA KOYIM (OFFICIAL HD VERSION AGGRO TV)
+Link: https://www.youtube.com/watch?v=TTN9MR97JyQ
+
+________________________________________________________________
+Here is a video titled: AMK Amazing Kids (Dance Revolution) Alaminos,Laguna
+Link: https://www.youtube.com/watch?v=Nx5WAP1l6ak
+
+________________________________________________________________
+Here is a video titled: Commodo Gantz Kahn - AMK - 28.08.15
+Link: https://www.youtube.com/watch?v=CEsr46CJo1w
+
+________________________________________________________________
+Here is a video titled: AMK Nedir ?
+Link: https://www.youtube.com/watch?v=DdGeFcGzhzk
+
+________________________________________________________________
+Here is a video titled: |AMK| MEET THE REST PT 2.
+Link: https://www.youtube.com/watch?v=UFJoTxe-T4M
+
+________________________________________________________________
+Here is a video titled: Arbeit AMK
+Link: https://www.youtube.com/watch?v=9WjyqvZrN7Q
+
+________________________________________________________________
+Here is a video titled: oha amk
+Link: https://www.youtube.com/watch?v=C2yoHdKkt1s
+
+________________________________________________________________
+Here is a video titled: AMK Nedir ? Sokak Röportajı
+Link: https://www.youtube.com/watch?v=EFNnpxto7Hc
+
+________________________________________________________________
+Here is a video titled: BERKANT EGIN - ARBEIT AMK 2017 offical videoclip
+Link: https://www.youtube.com/watch?v=SB35bRTQvuA
+
+________________________________________________________________
+Here is a video titled: A.M.K. Corrage - BERLIN ft. Chaker (Official Video) prod. by Buaka
+Link: https://www.youtube.com/watch?v=HP3zdIYG5Cc
+
+________________________________________________________________
+Here is a video titled: Was bedeutet AMK??? - Kelly kommentiert Kommentare #120
+Link: https://www.youtube.com/watch?v=bcaeV3bEMMM
+
+________________________________________________________________
+Here is a video titled: Was bedeutet ''AMK, GÖTVEREN & SIKTIR LAN''? STRAßEN UMFRAGE l Yavi TV
+Link: https://www.youtube.com/watch?v=quURyTs6SB0
+
+________________________________________________________________
+Here is a video titled: AMK 請讓我回家
+Link: https://www.youtube.com/watch?v=Ll-RFAksB6I
+
+________________________________________________________________
+Here is a video titled: Wir hatten damals nicht solche Lehrer AMK 😂
+Link: https://www.youtube.com/watch?v=KP64E0UyapA
+
+________________________________________________________________
+Here is a video titled: AMK
+Link: https://www.youtube.com/channel/UC4oPR2WBHr5JuUQzSyzGiZg
+
+________________________________________________________________
+Here is a video titled: cen - amk [musikvideo]
+Link: https://www.youtube.com/watch?v=zWvnFCJEwUk
+
+________________________________________________________________
+Here is a video titled: AMK Microfinance Institution Plc.
+Link: https://www.youtube.com/channel/UCEaag1h6DBc1-R_bpnMqa9w
+
+________________________________________________________________
+Here is a video titled: Amk Hikayesi
+Link: https://www.youtube.com/watch?v=5_7apbKCSRI
+
+________________________________________________________________
+Here is a video titled: Ölçmedim ki amk
+Link: https://www.youtube.com/watch?v=zTqr3YdNASc
+
+________________________________________________________________
+Here is a video titled: Yak amk Yak 🤣🤣
+Link: https://www.youtube.com/watch?v=RknYtmw998s
+
+________________________________________________________________
+Here is a video titled: Amk - Vaterlandsverräter
+Link: https://www.youtube.com/watch?v=BFX2HXkc-hg
+
+________________________________________________________________
+Here is a video titled: Konya yolundayim amk
+Link: https://www.youtube.com/watch?v=6zNzlwFzOxQ
+
+________________________________________________________________
+Here is a video titled: Alang Madan Kulang (AMK) - One of the TOUGHEST treks in Maharashtra |(Part I) | GoPro India 2017
+Link: https://www.youtube.com/watch?v=8TZmOqFDdpE
+
+________________________________________________________________
+Here is a video titled: Thank You AMK
+Link: https://www.youtube.com/watch?v=YDZj4omf2a0
+
+________________________________________________________________
+Here is a video titled: CRACKVLOG AMK
+Link: https://www.youtube.com/watch?v=WqklN9Mc4eE
+
+________________________________________________________________
+Here is a video titled: AMK Late Night i GBG Dokumentären
+Link: https://www.youtube.com/watch?v=3cZrEFeB2V8
+
+________________________________________________________________
+Here is a video titled: 'AMK Tunç Bey'
+Link: https://www.youtube.com/watch?v=1M93p-CNAfQ
+
+________________________________________________________________
+Here is a video titled: AMK - 浪漫是您的本性
+Link: https://www.youtube.com/watch?v=EH61lyaDv2E
+
+________________________________________________________________
+Here is a video titled: AMK - Nech mě bejt(OFF. VIDEO)
+Link: https://www.youtube.com/watch?v=VLajDvQ3akM
+
+________________________________________________________________
+Here is a video titled: Barfuß Am Klavier - AnnenMayKantereit
+Link: https://www.youtube.com/watch?v=tERRFWuYG48
+
+________________________________________________________________
+Here is a video titled: Hitler AMK!
+Link: https://www.youtube.com/watch?v=Ng5xaj6t294
+
+________________________________________________________________
+Here is a video titled: AMK - MBP [Official Video] Shot by @RealEyzProd
+Link: https://www.youtube.com/watch?v=BHticUP1xT4
+
+________________________________________________________________
+Here is a video titled: AMK - Tou Sa Adan #QDGANGMixtape
+Link: https://www.youtube.com/watch?v=4rDSjwFvIXg
+
+________________________________________________________________
+Here is a video titled: Bu Kızın babası yokmu a.m.k
+Link: https://www.youtube.com/watch?v=ZTKhlRWyYlI
+
+________________________________________________________________
+Here is a video titled: MIKSI AMK EIKÄ YLIOPISTO? 📚
+Link: https://www.youtube.com/watch?v=KUEAHzJdrMY
+
+________________________________________________________________
+Here is a video titled: Amk EL Muslim  Christ (clip officiel)
+Link: https://www.youtube.com/watch?v=vvLFuinWu9Y
+
+________________________________________________________________
+Here is a video titled: DJ MAALEEK x GILLETTE ABDI   AMK RMX
+Link: https://www.youtube.com/watch?v=txMuLFSMe_Q
+
+________________________________________________________________
+Here is a video titled: Podolski amk - Mesut Özil Doğum Günü
+Link: https://www.youtube.com/watch?v=V0df90yb7lk
+
+________________________________________________________________
+Here is a video titled: Roxanne (Cover) - AnnenMayKantereit & Milky Chance
+Link: https://www.youtube.com/watch?v=VI4ssGtfdxw
+
+________________________________________________________________
+Here is a video titled: INCREDIBLE VIEW | AMK | DJI PHANTOM - 4
+Link: https://www.youtube.com/watch?v=nmXjwgnMAc0
+
+________________________________________________________________
+Here is a video titled: Şehinşah - Kaçanın Amk (Lyrics)
+Link: https://www.youtube.com/watch?v=oHn9eL6GpNk
+
+________________________________________________________________
+Here is a video titled: អេ អឹម ខេ ជាជម្រើសអាជីពការងារសម្រាប់អ្នក (AMK - Your Employer of Choice)
+Link: https://www.youtube.com/watch?v=4HnlEJwQ_1M
+
+________________________________________________________________
+Here is a video titled: Arkadaşlarının amk
+Link: https://www.youtube.com/watch?v=fwmi9eVJPhA
+
+________________________________________________________________
+Here is a video titled: Sanane Amk diyen kedi.
+Link: https://www.youtube.com/watch?v=_ufZVfq4r5Y
+
+________________________________________________________________
+
+spotify-this-song,
+Track: The Light
+Artist: MihTy
+Album: The Light
+https://api.spotify.com/v1/tracks/3oCJJksC12uFxkt3RQ7rbV
+________________________________________________________________
+
+spotify-this-song,
+Track: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+________________________________________________________________
+spotify-this-song
+
+________________________________________________________________
+Track: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNEspotify-this-song
+Track: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+________________________________________________________________
+spotify-this-song
+Track: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+________________________________________________________________
+spotify-this-song
+Track: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+________________________________________________________________
+spotify-this-song
+Track: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e197c09b8ab74764afd7eedc0cd41fb8
+________________________________________________________________
+spotify-this-song
+Here is what I found for the song The Sign Ace of Base
+Track: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e197c09b8ab74764afd7eedc0cd41fb8
+________________________________________________________________
+spotify-this-song
+Here is what I found for the song The Sign
+Track: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e197c09b8ab74764afd7eedc0cd41fb8
+________________________________________________________________
+
+spotify-this-song,first be a woman
+Here is what I found for the song First Be a Woman
+Track: First Be a Woman
+Artist: Gloria Gaynor
+Album: Gloria Gaynor
+Preview Link: https://p.scdn.co/mp3-preview/772544bd79252e069287eeb0c9c24cf548569ed8?cid=e197c09b8ab74764afd7eedc0cd41fb8
+________________________________________________________________
