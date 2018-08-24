@@ -31,15 +31,30 @@ var youtube = new Youtube(keys.youtube)
 
 //___________________________Spotify_________________________
 
+
+var SpotifyWebApi = require('spotify-web-api-node');
+ 
+// credentials are optional
+var spotifyApi = new SpotifyWebApi({
+  clientId: 'e197c09b8ab74764afd7eedc0cd41fb8',
+  clientSecret: 'd433912e4712447db26028a0bce83036',
+  redirectUri: 'http://www.example.com/callback'
+});
+spotifyApi.searchTracks('Love')
+  .then(function(data) {
+    console.log('Search by "Love"', data.body);
+  }, function(err) {
+    console.error(err);
+  });
 //Doesn't work yet
-var spotify = new Spotify(keys.spotify)
-function SpotifyIt() {
-    spotify.searchTracks("Love").then(function (data) {
-        console.log('Search by "Love"', data.body);
-    }, function (err) {
-        console.log(err)
-    });
-}
+// var spotify = new Spotify(keys.spotify)
+// function SpotifyIt() {
+//     spotify.searchTracks("Love").then(function (data) {
+//         console.log('Search by "Love"', data.body);
+//     }, function (err) {
+//         console.log(err)
+//     });
+// }
 
 //___________________________OMDB_________________________
 var omdbParam = {
